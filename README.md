@@ -1,2 +1,2 @@
-# Bucketbets
+# Bucketbetz
 Friendly moneyless sports betting
